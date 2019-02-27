@@ -180,6 +180,6 @@ Module['FS_createPath']('/FortisTerra/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 95, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 95, "crunched": 0, "end": 38329613, "filename": "/FortisTerra/Content/Paks/FortisTerra-HTML5.pak"}], "remote_package_size": 38329613, "package_uuid": "5f16c8af-9996-4626-a02c-800b233a7c3a"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 95, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 95, "crunched": 0, "end": 38338941, "filename": "/FortisTerra/Content/Paks/FortisTerra-HTML5.pak"}], "remote_package_size": 38338941, "package_uuid": "86c2d8dd-9214-4092-ac09-666344468d74"});
 
 })();
